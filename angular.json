@@ -24,8 +24,33 @@
             ],
             "styles": [
               "src/styles.css"
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/nouislider/nouislider.css",
+              // "https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700",
+              // "src/fonts/hkgrotesk/stylesheet.css",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/owl.carousel/assets/owl.carousel.css",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/ekko-lightbox/ekko-lightbox.css",
+              // "src/css/style.default.css",
+              // "src/css/custom.css",
+              // "https://use.fontawesome.com/releases/v5.1.0/css/solid.css",
+              // "https://use.fontawesome.com/releases/v5.1.0/css/regular.css",
+              // "https://use.fontawesome.com/releases/v5.1.0/css/brands.css",
+              // "https://use.fontawesome.com/releases/v5.1.0/css/fontawesome.css"
             ],
-            "scripts": []
+            "scripts": [
+              // "src/js/custom.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/jquery/jquery.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/popper.js/umd/popper.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/bootstrap/js/bootstrap.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/owl.carousel/owl.carousel.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/owl.carousel2.thumbs/owl.carousel2.thumbs.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/nouislider/nouislider.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/smooth-scroll/smooth-scroll.polyfills.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/ekko-lightbox/ekko-lightbox.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/object-fit-images/ofi.min.js",
+              // "https://d19m59y37dris4.cloudfront.net/sell/1-2-2/vendor/jquery.cookie/jquery.cookie.js",
+              // "src/js/demo.js",
+              // "src/js/theme.js"
+            ]
           },
           "configurations": {
             "production": {
